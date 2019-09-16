@@ -1,0 +1,22 @@
+/*
+Theme Name: Learning Wordpress
+Theme URI: http://localhost/news/wp-content/themes/learningtheme/
+Author: WTS team
+Version: 1.0
+ */
+
+body{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+p{
+    line-height: 1.65em;
+
+}
+
+a:link,
+a:visited{
+    color: #006ec3;
+}
